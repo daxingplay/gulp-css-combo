@@ -23,7 +23,8 @@
   ],
   "dependencies": {
     "gulp-util": "~2.2.14",
-    "through2": "~0.4.1"
+    "through2": "~0.4.1",
+    "css-combo": "~0.5.2"
   },
   "devDependencies": {
     "event-stream": "^3.2.2",
