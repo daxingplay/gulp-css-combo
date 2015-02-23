@@ -19,7 +19,7 @@
     "index.js"
   ],
   "keywords": [
-    "gulpplugin"
+    "gulpplugin", "css-combo", "css"
   ],
   "dependencies": {
     "gulp-util": "~2.2.14",
