@@ -30,12 +30,13 @@ gulp.task('default', function () {
 
 #### options
 
-##### foo
+
+##### debug
 
 Type: `Boolean`  
 Default: `false`
 
-Lorem ipsum.
+enable debug
 
 
 ## License
