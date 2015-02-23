@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-combo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "license": "MIT",
   "repository": "daxingplay/gulp-css-combo",
@@ -26,6 +26,9 @@
     "through2": "~0.4.1"
   },
   "devDependencies": {
-    "mocha": "*"
+    "event-stream": "^3.2.2",
+    "mocha": "*",
+    "should": "^5.0.1",
+    "vinyl": "^0.4.6"
   }
 }
